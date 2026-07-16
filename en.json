@@ -1,0 +1,57 @@
+{
+    "title": "LeetCode Progress Tracker",
+    "stats": {
+        "total_solved": "Total Solved:",
+        "progress": "Progress:",
+        "easy": "Easy:",
+        "medium": "Medium:",
+        "hard": "Hard:",
+        "difficulty_progress": "Progress by Difficulty:",
+        "last_update": "Last Update:"
+    },
+    "buttons": {
+        "refresh": "🔄 Refresh Data",
+        "language": "🌐 Language"
+    },
+    "loading": {
+        "updating": "⏳ Updating data... Please wait."
+    },
+    "charts": {
+        "progress_tab": "📈 Progress",
+        "total_tab": "📊 Total Problems",
+        "daily_tab": "📅 Daily",
+        "difficulty_breakdown_tab": "🎯 By Difficulty",
+        "difficulty_total_tab": "📋 Total by Difficulty",
+        "difficulty_progress_tab": "♨️ Progress by Difficulty",
+        "heatmap_tab": "🔥 Activity",
+        "progress_title": "Progress (since tracking began)",
+        "total_title": "Total Number of Solved Problems",
+        "daily_title": "Daily Progress",
+        "difficulty_breakdown_title": "Distribution by Difficulty Level",
+        "difficulty_total_title": "Total Problems by Difficulty Level",
+        "difficulty_progress_title": "Progress by Difficulty Level (since tracking began)",
+        "heatmap_title": "Activity Heatmap",
+        "axes": {
+            "date_time": "Date and Time",
+            "date": "Date",
+            "users": "Users",
+            "tasks_count": "Number of Tasks",
+            "solved_relative": "Tasks Solved (relative to start)",
+            "total_solved": "Total Number of Solved Tasks",
+            "progress_relative": "Progress of Solved Tasks (relative to start)",
+            "hour_of_day": "Hour of Day",
+            "day_of_week": "Day of Week"
+        },
+        "series_labels": {
+            "easy": "Easy",
+            "medium": "Medium",
+            "hard": "Hard"
+        }
+    },
+    "errors": {
+        "loading_error": "An error occurred while loading data:",
+        "suggestion": "Make sure the data update script has been run at least once.",
+        "no_data": "No data",
+        "unknown_error": "Unknown error"
+    }
+}
